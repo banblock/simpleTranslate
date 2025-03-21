@@ -1,0 +1,12 @@
+numpy
+torch
+transformers
+speechrecognition
+pydub
+ffmpeg
+deep_translator
+openai
+sentencepiece
+accelerate
+bitsandbytes
+gradio
