@@ -10,3 +10,7 @@ sentencepiece
 accelerate
 bitsandbytes
 gradio
+noisereduce
+librosa
+soundfile
+pyannote
